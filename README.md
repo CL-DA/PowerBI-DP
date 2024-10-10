@@ -1,6 +1,6 @@
 Data-Professional-Survey-Breakdown  
 
-The purpose of this project is to analyze and visualize the data collected during an online survey for Data professionals run by Alex The Analyst
+The purpose of this project is to analyze and visualize the data collected during an online survey for data professionals, conducted by Alex The Analyst.
   - Dataset: Provided by Alex Freberg
   - Dataset Cleaning: Raw Data has been cleaned in PowerBI desktop
   - Project_Name: Data Professionals Project
